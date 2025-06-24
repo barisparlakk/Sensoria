@@ -32,8 +32,8 @@ EEG sinyallerinden 4 temel duygu durumunu sınıflandırma:
 
 ```bash
 # Repository'yi klonlayın
-git clone https://github.com/username/eeg-emotion-recognition.git
-cd eeg-emotion-recognition
+git clone https://github.com/barisparlakk/Sensoria.git
+cd Sensoria
 
 # Gerekli paketleri yükleyin
 pip install -r requirements.txt
@@ -44,13 +44,13 @@ python main.py
 
 ## 📈 Sonuçlar
 
-Mevcut model sentetik veri üzerinde **~85-90%** doğruluk oranı elde etmektedir.
+Mevcut model sentetik veri üzerinde **~xx-xx%** doğruluk oranı elde etmektedir.
 
 ### Model Performansı
-- **Accuracy**: ~87%
-- **Precision**: Sınıf bazında 0.80-0.95
-- **Recall**: Sınıf bazında 0.78-0.92
-- **F1-Score**: Sınıf bazında 0.79-0.93
+- **Accuracy**: ~xx%
+- **Precision**: Sınıf bazında xx-xx
+- **Recall**: Sınıf bazında xx-xx
+- **F1-Score**: Sınıf bazında xx-xx
 
 ## 📁 Dosya Yapısı
 
