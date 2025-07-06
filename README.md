@@ -36,7 +36,7 @@ git clone https://github.com/barisparlakk/Sensoria.git
 cd Sensoria
 
 # Gerekli paketleri yükleyin
-pip install -r requirements.txt
+pip install -r Requirements.txt
 
 # Ana scripti çalıştırın
 python main.py
