@@ -147,7 +147,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📧 İletişim
 
-Sorularınız için: [your-email@university.edu]
+Sorularınız için: [barisparlak36@gmail.com]
 
 ---
 
